@@ -7,4 +7,4 @@ int main(){
     output = 137*pow(x,3)+cos(pow(y,3)/pow(y,4))+tan(14*y)-7*pow(x,6); /* вираховування по формулі */ 
     printf("%f", output); /* вивід результату */ 
 }
-
+// adding frist coment
